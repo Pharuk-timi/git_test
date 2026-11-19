@@ -1,0 +1,3 @@
+Hello World
+I am learning Git and Github.
+this is my first practical Git exercise.
